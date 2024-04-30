@@ -1,0 +1,345 @@
+{
+  "apikey": "bbcb39d7-309a-4bfd-8fcb-cb18345c37e5",
+  "data": [
+    {
+      "id": "0670db42-fbce-47b6-9390-9a520c6a815b",
+      "name": "Ireland vs South Africa, 3rd ODI",
+      "matchType": "odi",
+      "status": "Match not started",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "date": "2024-10-07",
+      "dateTimeGMT": "2024-10-07T06:00:00",
+      "teams": [
+        "Ireland",
+        "South Africa"
+      ],
+      "teamInfo": [
+        {
+          "name": "Ireland",
+          "shortname": "IRE",
+          "img": "https://g.cricapi.com/iapi/33-637926315578500224.png?w=48"
+        },
+        {
+          "name": "South Africa",
+          "shortname": "RSA",
+          "img": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "e4272d6e-60da-4156-9fb8-be20e7d227ef",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "4378faf1-959c-4d2a-bcce-45fa662d4aa2",
+      "name": "Ireland vs South Africa, 2nd ODI",
+      "matchType": "odi",
+      "status": "Match not started",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "date": "2024-10-04",
+      "dateTimeGMT": "2024-10-04T06:00:00",
+      "teams": [
+        "Ireland",
+        "South Africa"
+      ],
+      "teamInfo": [
+        {
+          "name": "Ireland",
+          "shortname": "IRE",
+          "img": "https://g.cricapi.com/iapi/33-637926315578500224.png?w=48"
+        },
+        {
+          "name": "South Africa",
+          "shortname": "RSA",
+          "img": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "e4272d6e-60da-4156-9fb8-be20e7d227ef",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "c2edf019-c204-464d-aa7f-99a5e3b39abf",
+      "name": "Ireland vs South Africa, 1st ODI",
+      "matchType": "odi",
+      "status": "Match not started",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "date": "2024-10-02",
+      "dateTimeGMT": "2024-10-02T06:00:00",
+      "teams": [
+        "Ireland",
+        "South Africa"
+      ],
+      "teamInfo": [
+        {
+          "name": "Ireland",
+          "shortname": "IRE",
+          "img": "https://g.cricapi.com/iapi/33-637926315578500224.png?w=48"
+        },
+        {
+          "name": "South Africa",
+          "shortname": "RSA",
+          "img": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "e4272d6e-60da-4156-9fb8-be20e7d227ef",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "b16b75c4-5fa4-46c7-ac45-8b80a47e9712",
+      "name": "Ireland vs South Africa, 2nd T20I",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "date": "2024-09-29",
+      "dateTimeGMT": "2024-09-29T16:00:00",
+      "teams": [
+        "Ireland",
+        "South Africa"
+      ],
+      "teamInfo": [
+        {
+          "name": "Ireland",
+          "shortname": "IRE",
+          "img": "https://g.cricapi.com/iapi/33-637926315578500224.png?w=48"
+        },
+        {
+          "name": "South Africa",
+          "shortname": "RSA",
+          "img": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "e4272d6e-60da-4156-9fb8-be20e7d227ef",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "d3308dcd-741c-450b-a087-6c186b369700",
+      "name": "Ireland vs South Africa, 1st T20I",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "date": "2024-09-27",
+      "dateTimeGMT": "2024-09-27T16:00:00",
+      "teams": [
+        "Ireland",
+        "South Africa"
+      ],
+      "teamInfo": [
+        {
+          "name": "Ireland",
+          "shortname": "IRE",
+          "img": "https://g.cricapi.com/iapi/33-637926315578500224.png?w=48"
+        },
+        {
+          "name": "South Africa",
+          "shortname": "RSA",
+          "img": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "e4272d6e-60da-4156-9fb8-be20e7d227ef",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "8c30b133-2eb6-4ec8-92e6-db1202f1d3bd",
+      "name": "Ireland vs Zimbabwe, Only Test",
+      "matchType": "test",
+      "status": "Match not started",
+      "venue": "Civil Service Cricket Club, Belfast",
+      "date": "2024-07-25",
+      "dateTimeGMT": "2024-07-25T09:45:00",
+      "teams": [
+        "Ireland",
+        "Zimbabwe"
+      ],
+      "teamInfo": [
+        {
+          "name": "Ireland",
+          "shortname": "IRE",
+          "img": "https://g.cricapi.com/iapi/33-637926315578500224.png?w=48"
+        },
+        {
+          "name": "Zimbabwe",
+          "shortname": "ZIM",
+          "img": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "d5765bf8-3845-4ca4-9153-eeac81c56f32",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "0b2cf28f-79f8-492d-8691-d4c67b868b39",
+      "name": "Pakistan Women vs West Indies Women, 3rd T20I",
+      "matchType": "t20",
+      "status": "West Indies Women won by 2 runs",
+      "venue": "National Stadium, Karachi",
+      "date": "2024-04-30",
+      "dateTimeGMT": "2024-04-30T14:30:00",
+      "teams": [
+        "Pakistan Women",
+        "West Indies Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Pakistan Women",
+          "shortname": "PAKW",
+          "img": "https://g.cricapi.com/iapi/67-637877074931980375.webp?w=48"
+        },
+        {
+          "name": "West Indies Women",
+          "shortname": "WIW",
+          "img": "https://g.cricapi.com/iapi/102-637877078650138806.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 132,
+          "w": 5,
+          "o": 20,
+          "inning": "West Indies Women Inning 1"
+        },
+        {
+          "r": 130,
+          "w": 8,
+          "o": 20,
+          "inning": "Pakistan Women Inning 1"
+        }
+      ],
+      "series_id": "58ec62f8-2ef1-487b-9b88-24cc617f0cef",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "9a555abf-4f83-4b95-ab4e-8e3671cc82fa",
+      "name": "Bangladesh Women vs India Women, 2nd T20I",
+      "matchType": "t20",
+      "status": "India Women won by 19 runs (DLS Method)",
+      "venue": "Sylhet International Cricket Stadium, Sylhet",
+      "date": "2024-04-30",
+      "dateTimeGMT": "2024-04-30T10:00:00",
+      "teams": [
+        "Bangladesh Women",
+        "India Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh Women",
+          "shortname": "BANW",
+          "img": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=48"
+        },
+        {
+          "name": "India Women",
+          "shortname": "INDW",
+          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 119,
+          "w": 10,
+          "o": 20,
+          "inning": "Bangladesh Women Inning 1"
+        },
+        {
+          "r": 47,
+          "w": 1,
+          "o": 5.2,
+          "inning": "India Women Inning 1"
+        }
+      ],
+      "series_id": "3a80c785-3f9d-4c06-aa74-e581cd769c57",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "64fc2e09-d415-42d4-a0f8-7e3f237f4f5c",
+      "name": "Lucknow Super Giants vs Mumbai Indians, 48th Match",
+      "matchType": "t20",
+      "status": "Lucknow Super Giants won by 4 wkts",
+      "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+      "date": "2024-04-30",
+      "dateTimeGMT": "2024-04-30T14:00:00",
+      "teams": [
+        "Lucknow Super Giants",
+        "Mumbai Indians"
+      ],
+      "teamInfo": [
+        {
+          "name": "Lucknow Super Giants",
+          "shortname": "LSG",
+          "img": "https://g.cricapi.com/iapi/215-637876059669009476.png?w=48"
+        },
+        {
+          "name": "Mumbai Indians",
+          "shortname": "MI",
+          "img": "https://g.cricapi.com/iapi/226-637852956375593901.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 144,
+          "w": 7,
+          "o": 20,
+          "inning": "Mumbai Indians Inning 1"
+        },
+        {
+          "r": 145,
+          "w": 6,
+          "o": 19.2,
+          "inning": "Lucknow Super Giants Inning 1"
+        }
+      ],
+      "series_id": "76ae85e2-88e5-4e99-83e4-5f352108aebc",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    }
+  ],
+  "status": "success",
+  "info": {
+    "hitsToday": 3,
+    "hitsUsed": 1,
+    "hitsLimit": 100,
+    "credits": 0,
+    "server": 14,
+    "offsetRows": 0,
+    "totalRows": 9,
+    "queryTime": 41.1068,
+    "s": 0,
+    "cache": 0
+  }
+}
