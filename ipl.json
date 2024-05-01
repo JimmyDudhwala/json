@@ -2,6 +2,358 @@
   "apikey": "bbcb39d7-309a-4bfd-8fcb-cb18345c37e5",
   "data": [
     {
+      "id": "22ec995f-21be-43a3-a4ea-7f3d6efcc0f3",
+      "name": "Ireland Women vs England Women, 3rd T20I",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "Castle Avenue, Dublin",
+      "date": "2024-09-17",
+      "dateTimeGMT": "2024-09-17T09:00:00",
+      "teams": [
+        "Ireland Women",
+        "England Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "England Women",
+          "shortname": "ENGW",
+          "img": "https://g.cricapi.com/iapi/24-637877067109151578.webp?w=48"
+        },
+        {
+          "name": "Ireland Women",
+          "shortname": "IRW",
+          "img": "https://g.cricapi.com/iapi/1420-637926315409640205.png?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "5d9f304f-4cb4-4eac-b689-89e7b3360a60",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "d82d7dfa-dc54-49bf-ace6-4d3922eb2462",
+      "name": "Ireland Women vs England Women, 2nd T20I",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "Castle Avenue, Dublin",
+      "date": "2024-09-16",
+      "dateTimeGMT": "2024-09-16T09:00:00",
+      "teams": [
+        "Ireland Women",
+        "England Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "England Women",
+          "shortname": "ENGW",
+          "img": "https://g.cricapi.com/iapi/24-637877067109151578.webp?w=48"
+        },
+        {
+          "name": "Ireland Women",
+          "shortname": "IRW",
+          "img": "https://g.cricapi.com/iapi/1420-637926315409640205.png?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "5d9f304f-4cb4-4eac-b689-89e7b3360a60",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "5c01ff7b-2499-4bc6-8769-d2f01ad2a9fb",
+      "name": "Ireland Women vs England Women, 1st T20I",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "Castle Avenue, Dublin",
+      "date": "2024-09-14",
+      "dateTimeGMT": "2024-09-14T09:00:00",
+      "teams": [
+        "Ireland Women",
+        "England Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "England Women",
+          "shortname": "ENGW",
+          "img": "https://g.cricapi.com/iapi/24-637877067109151578.webp?w=48"
+        },
+        {
+          "name": "Ireland Women",
+          "shortname": "IRW",
+          "img": "https://g.cricapi.com/iapi/1420-637926315409640205.png?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "5d9f304f-4cb4-4eac-b689-89e7b3360a60",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "d4a81f8e-57a6-4fb8-82b3-4121960eafb8",
+      "name": "Ireland Women vs England Women, 3rd ODI",
+      "matchType": "odi",
+      "status": "Match not started",
+      "venue": "Civil Service Cricket Club, Belfast",
+      "date": "2024-09-11",
+      "dateTimeGMT": "2024-09-11T10:00:00",
+      "teams": [
+        "Ireland Women",
+        "England Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "England Women",
+          "shortname": "ENGW",
+          "img": "https://g.cricapi.com/iapi/24-637877067109151578.webp?w=48"
+        },
+        {
+          "name": "Ireland Women",
+          "shortname": "IRW",
+          "img": "https://g.cricapi.com/iapi/1420-637926315409640205.png?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "5d9f304f-4cb4-4eac-b689-89e7b3360a60",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "d7b2bce6-958c-4584-aaa0-615e1f56430a",
+      "name": "Ireland Women vs England Women, 2nd ODI",
+      "matchType": "odi",
+      "status": "Match not started",
+      "venue": "Civil Service Cricket Club, Belfast",
+      "date": "2024-09-09",
+      "dateTimeGMT": "2024-09-09T10:00:00",
+      "teams": [
+        "Ireland Women",
+        "England Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "England Women",
+          "shortname": "ENGW",
+          "img": "https://g.cricapi.com/iapi/24-637877067109151578.webp?w=48"
+        },
+        {
+          "name": "Ireland Women",
+          "shortname": "IRW",
+          "img": "https://g.cricapi.com/iapi/1420-637926315409640205.png?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "5d9f304f-4cb4-4eac-b689-89e7b3360a60",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "b69125ca-e9d2-45e0-9171-6b92ff0a22a3",
+      "name": "Ireland Women vs England Women, 1st ODI",
+      "matchType": "odi",
+      "status": "Match not started",
+      "venue": "Civil Service Cricket Club, Belfast",
+      "date": "2024-09-07",
+      "dateTimeGMT": "2024-09-07T10:00:00",
+      "teams": [
+        "Ireland Women",
+        "England Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "England Women",
+          "shortname": "ENGW",
+          "img": "https://g.cricapi.com/iapi/24-637877067109151578.webp?w=48"
+        },
+        {
+          "name": "Ireland Women",
+          "shortname": "IRW",
+          "img": "https://g.cricapi.com/iapi/1420-637926315409640205.png?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "5d9f304f-4cb4-4eac-b689-89e7b3360a60",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "cf80e65e-cd54-4304-9ff8-c3340295e69f",
+      "name": "Ireland Women vs Sri Lanka Women, 3rd ODI",
+      "matchType": "odi",
+      "status": "Match not started",
+      "venue": "Civil Service Cricket Club, Belfast",
+      "date": "2024-08-20",
+      "dateTimeGMT": "2024-08-20T10:00:00",
+      "teams": [
+        "Ireland Women",
+        "Sri Lanka Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Ireland Women",
+          "shortname": "IRW",
+          "img": "https://g.cricapi.com/iapi/1420-637926315409640205.png?w=48"
+        },
+        {
+          "name": "Sri Lanka Women",
+          "shortname": "SLW",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "7a56ada3-6a44-44b2-b128-af9fc7725894",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "4af82036-0c59-4873-8c1c-16aca4b54718",
+      "name": "Ireland Women vs Sri Lanka Women, 2nd ODI",
+      "matchType": "odi",
+      "status": "Match not started",
+      "venue": "Civil Service Cricket Club, Belfast",
+      "date": "2024-08-18",
+      "dateTimeGMT": "2024-08-18T10:00:00",
+      "teams": [
+        "Ireland Women",
+        "Sri Lanka Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Ireland Women",
+          "shortname": "IRW",
+          "img": "https://g.cricapi.com/iapi/1420-637926315409640205.png?w=48"
+        },
+        {
+          "name": "Sri Lanka Women",
+          "shortname": "SLW",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "7a56ada3-6a44-44b2-b128-af9fc7725894",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "e48a3abc-a0a4-4272-9424-223d3bf08bd3",
+      "name": "Ireland Women vs Sri Lanka Women, 1st ODI",
+      "matchType": "odi",
+      "status": "Match not started",
+      "venue": "Civil Service Cricket Club, Belfast",
+      "date": "2024-08-16",
+      "dateTimeGMT": "2024-08-16T10:00:00",
+      "teams": [
+        "Ireland Women",
+        "Sri Lanka Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Ireland Women",
+          "shortname": "IRW",
+          "img": "https://g.cricapi.com/iapi/1420-637926315409640205.png?w=48"
+        },
+        {
+          "name": "Sri Lanka Women",
+          "shortname": "SLW",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "7a56ada3-6a44-44b2-b128-af9fc7725894",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "f9ed1829-8654-4598-9229-e7d422e9acf7",
+      "name": "Ireland Women vs Sri Lanka Women, 2nd T20I",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "Pembroke Cricket Club, Dublin",
+      "date": "2024-08-13",
+      "dateTimeGMT": "2024-08-13T09:00:00",
+      "teams": [
+        "Ireland Women",
+        "Sri Lanka Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Ireland Women",
+          "shortname": "IRW",
+          "img": "https://g.cricapi.com/iapi/1420-637926315409640205.png?w=48"
+        },
+        {
+          "name": "Sri Lanka Women",
+          "shortname": "SLW",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "7a56ada3-6a44-44b2-b128-af9fc7725894",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "e993cd5e-e070-4a68-9c1e-d1d7069693e2",
+      "name": "Ireland Women vs Sri Lanka Women, 1st T20I",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "Pembroke Cricket Club, Dublin",
+      "date": "2024-08-11",
+      "dateTimeGMT": "2024-08-11T09:00:00",
+      "teams": [
+        "Ireland Women",
+        "Sri Lanka Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Ireland Women",
+          "shortname": "IRW",
+          "img": "https://g.cricapi.com/iapi/1420-637926315409640205.png?w=48"
+        },
+        {
+          "name": "Sri Lanka Women",
+          "shortname": "SLW",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "7a56ada3-6a44-44b2-b128-af9fc7725894",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
       "id": "0670db42-fbce-47b6-9390-9a520c6a815b",
       "name": "Ireland vs South Africa, 3rd ODI",
       "matchType": "odi",
@@ -194,6 +546,96 @@
       "matchEnded": false
     },
     {
+      "id": "bd1d5b7f-4739-4415-92ce-0cd4f062f4c6",
+      "name": "Sri Lanka Women vs Uganda Women, 14th Match, Group A",
+      "matchType": "t20",
+      "status": "Uganda Women need 68 runs in 5 balls",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "date": "2024-05-01",
+      "dateTimeGMT": "2024-05-01T11:00:00",
+      "teams": [
+        "Sri Lanka Women",
+        "Uganda Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Sri Lanka Women",
+          "shortname": "SLW",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        },
+        {
+          "name": "Uganda Women",
+          "shortname": "UGAW",
+          "img": "https://g.cricapi.com/iapi/1135-637877086844153505.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 154,
+          "w": 4,
+          "o": 20,
+          "inning": "Sri Lanka Women Inning 1"
+        },
+        {
+          "r": 87,
+          "w": 9,
+          "o": 19.1,
+          "inning": "Uganda Women Inning 1"
+        }
+      ],
+      "series_id": "6f641563-d047-4e4e-9bb6-44fdb2345aeb",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "db4f125c-0ef6-4b8f-ad4c-a6c1f0448209",
+      "name": "Netherlands Women vs Zimbabwe Women, 13th Match, Group B",
+      "matchType": "t20",
+      "status": "Netherlands Women won by 14 runs",
+      "venue": "Tolerance Oval, Abu Dhabi",
+      "date": "2024-05-01",
+      "dateTimeGMT": "2024-05-01T11:00:00",
+      "teams": [
+        "Netherlands Women",
+        "Zimbabwe Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Netherlands Women",
+          "shortname": "NET-W",
+          "img": "https://g.cricapi.com/iapi/1639-637926301346986959.webp?w=48"
+        },
+        {
+          "name": "Zimbabwe Women",
+          "shortname": "ZIMW",
+          "img": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 135,
+          "w": 6,
+          "o": 20,
+          "inning": "Netherlands Women Inning 1"
+        },
+        {
+          "r": 121,
+          "w": 4,
+          "o": 20,
+          "inning": "Zimbabwe Women Inning 1"
+        }
+      ],
+      "series_id": "6f641563-d047-4e4e-9bb6-44fdb2345aeb",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "0b2cf28f-79f8-492d-8691-d4c67b868b39",
       "name": "Pakistan Women vs West Indies Women, 3rd T20I",
       "matchType": "t20",
@@ -284,6 +726,45 @@
       "matchEnded": true
     },
     {
+      "id": "419929c7-585f-4489-8a0e-20a1dbab36e7",
+      "name": "Chennai Super Kings vs Punjab Kings, 49th Match",
+      "matchType": "t20",
+      "status": "Punjab Kings opt to bowl",
+      "venue": "MA Chidambaram Stadium, Chennai",
+      "date": "2024-05-01",
+      "dateTimeGMT": "2024-05-01T14:00:00",
+      "teams": [
+        "Chennai Super Kings",
+        "Punjab Kings"
+      ],
+      "teamInfo": [
+        {
+          "name": "Chennai Super Kings",
+          "shortname": "CSK",
+          "img": "https://g.cricapi.com/iapi/135-637852956181378533.png?w=48"
+        },
+        {
+          "name": "Punjab Kings",
+          "shortname": "PBKS",
+          "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 15,
+          "w": 0,
+          "o": 2.3,
+          "inning": "Chennai Super Kings Inning 1"
+        }
+      ],
+      "series_id": "76ae85e2-88e5-4e99-83e4-5f352108aebc",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "64fc2e09-d415-42d4-a0f8-7e3f237f4f5c",
       "name": "Lucknow Super Giants vs Mumbai Indians, 48th Match",
       "matchType": "t20",
@@ -331,14 +812,14 @@
   ],
   "status": "success",
   "info": {
-    "hitsToday": 3,
+    "hitsToday": 73,
     "hitsUsed": 1,
     "hitsLimit": 100,
     "credits": 0,
-    "server": 14,
+    "server": 10,
     "offsetRows": 0,
-    "totalRows": 9,
-    "queryTime": 41.1068,
+    "totalRows": 23,
+    "queryTime": 33.6684,
     "s": 0,
     "cache": 0
   }
